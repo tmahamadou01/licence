@@ -1,0 +1,4951 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-10T17:08:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/60454533",
+      "properties": {
+        "@id": "way/60454533",
+        "addr:city": "Cocody",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Collège Saint Viateur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9563831,
+              5.3831905
+            ],
+            [
+              -3.9554397,
+              5.3823362
+            ],
+            [
+              -3.9553773,
+              5.3822797
+            ],
+            [
+              -3.9548271,
+              5.3817217
+            ],
+            [
+              -3.9528502,
+              5.3831943
+            ],
+            [
+              -3.953317,
+              5.3839969
+            ],
+            [
+              -3.9535208,
+              5.3846105
+            ],
+            [
+              -3.9557841,
+              5.3834877
+            ],
+            [
+              -3.9563831,
+              5.3831905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62802573",
+      "properties": {
+        "@id": "way/62802573",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Sainte Marie",
+        "addr:suburb": "Ambassade",
+        "amenity": "school",
+        "barrier": "wall",
+        "is_in": "Ambassade;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Lycée Sainte-Marie de Cocody"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9967332,
+              5.3317901
+            ],
+            [
+              -3.9944902,
+              5.3315272
+            ],
+            [
+              -3.99375,
+              5.3329922
+            ],
+            [
+              -3.9938746,
+              5.3346641
+            ],
+            [
+              -3.9960384,
+              5.3348941
+            ],
+            [
+              -3.9960856,
+              5.3346122
+            ],
+            [
+              -3.9963747,
+              5.334657
+            ],
+            [
+              -3.9965685,
+              5.3331607
+            ],
+            [
+              -3.9967332,
+              5.3317901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118454611",
+      "properties": {
+        "@id": "way/118454611",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Lycée Jules Ferry d'Attoban"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9782326,
+              5.3647654
+            ],
+            [
+              -3.9775833,
+              5.3648721
+            ],
+            [
+              -3.9776133,
+              5.3650526
+            ],
+            [
+              -3.9782625,
+              5.3649458
+            ],
+            [
+              -3.9782326,
+              5.3647654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125076722",
+      "properties": {
+        "@id": "way/125076722",
+        "amenity": "school",
+        "name": "Lycée Classique d'Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.005936,
+              5.3341054
+            ],
+            [
+              -4.0062883,
+              5.3336985
+            ],
+            [
+              -4.0064365,
+              5.3326367
+            ],
+            [
+              -4.00725,
+              5.33246
+            ],
+            [
+              -4.007347,
+              5.3320668
+            ],
+            [
+              -4.0074871,
+              5.3308027
+            ],
+            [
+              -4.0074362,
+              5.330735
+            ],
+            [
+              -4.004965,
+              5.330418
+            ],
+            [
+              -4.0048631,
+              5.3304349
+            ],
+            [
+              -4.0048036,
+              5.3304814
+            ],
+            [
+              -4.0047696,
+              5.3305955
+            ],
+            [
+              -4.0044183,
+              5.3337953
+            ],
+            [
+              -4.0046591,
+              5.3338258
+            ],
+            [
+              -4.0057912,
+              5.333977
+            ],
+            [
+              -4.005936,
+              5.3341054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146919232",
+      "properties": {
+        "@id": "way/146919232",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:postcode": "01 BP 1203",
+        "addr:state": "Abidjan",
+        "addr:street": "Avenue Jean Mermoz",
+        "amenity": "school",
+        "name": "Lycée international Jean-Mermoz",
+        "operator": "Mission laïque française",
+        "phone": "+225 08 44 85 08",
+        "website": "http://www.lijmermoz.org/",
+        "wheelchair": "yes",
+        "wikipedia": "fr:Lycée international Jean-Mermoz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9977338,
+              5.3393292
+            ],
+            [
+              -3.9975016,
+              5.3411623
+            ],
+            [
+              -3.9993428,
+              5.3413482
+            ],
+            [
+              -3.9994394,
+              5.3403642
+            ],
+            [
+              -3.9997427,
+              5.3400229
+            ],
+            [
+              -3.9997875,
+              5.3396159
+            ],
+            [
+              -3.9997217,
+              5.3395409
+            ],
+            [
+              -3.9977338,
+              5.3393292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146919233",
+      "properties": {
+        "@id": "way/146919233",
+        "amenity": "school",
+        "name": "Cours Secondaire Méthodiste de Cocody"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9942634,
+              5.3466811
+            ],
+            [
+              -3.9929499,
+              5.3465463
+            ],
+            [
+              -3.99308,
+              5.3470638
+            ],
+            [
+              -3.9929885,
+              5.3470778
+            ],
+            [
+              -3.993059,
+              5.3474161
+            ],
+            [
+              -3.9930924,
+              5.3476366
+            ],
+            [
+              -3.9931504,
+              5.3482176
+            ],
+            [
+              -3.9930473,
+              5.3490541
+            ],
+            [
+              -3.9939823,
+              5.3490754
+            ],
+            [
+              -3.9939971,
+              5.3486297
+            ],
+            [
+              -3.9942634,
+              5.3466811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185352141",
+      "properties": {
+        "@id": "way/185352141",
+        "addr:postcode": "25 BP 2257 Abidjan",
+        "addr:street": "E 94",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Lycée Blaise Pascal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.950827,
+              5.3527017
+            ],
+            [
+              -3.9514067,
+              5.3527336
+            ],
+            [
+              -3.9515629,
+              5.3526081
+            ],
+            [
+              -3.9520486,
+              5.3526211
+            ],
+            [
+              -3.9520835,
+              5.3526131
+            ],
+            [
+              -3.9521103,
+              5.3525944
+            ],
+            [
+              -3.9521666,
+              5.3525303
+            ],
+            [
+              -3.952412,
+              5.3527309
+            ],
+            [
+              -3.9527179,
+              5.3527692
+            ],
+            [
+              -3.952785,
+              5.3526944
+            ],
+            [
+              -3.9527954,
+              5.3526636
+            ],
+            [
+              -3.9528386,
+              5.3526543
+            ],
+            [
+              -3.9529027,
+              5.3525407
+            ],
+            [
+              -3.9529431,
+              5.3512755
+            ],
+            [
+              -3.9529294,
+              5.3512019
+            ],
+            [
+              -3.9529163,
+              5.3511499
+            ],
+            [
+              -3.9528758,
+              5.3510684
+            ],
+            [
+              -3.9515751,
+              5.3496844
+            ],
+            [
+              -3.9509573,
+              5.3502598
+            ],
+            [
+              -3.9508426,
+              5.3504193
+            ],
+            [
+              -3.950743,
+              5.3506225
+            ],
+            [
+              -3.9507032,
+              5.3508349
+            ],
+            [
+              -3.9507217,
+              5.3513382
+            ],
+            [
+              -3.950827,
+              5.3527017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188119403",
+      "properties": {
+        "@id": "way/188119403",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École libanaise Al Ghadir"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9450843,
+              5.3285731
+            ],
+            [
+              -3.9430018,
+              5.3285895
+            ],
+            [
+              -3.9432121,
+              5.3299564
+            ],
+            [
+              -3.9450896,
+              5.329855
+            ],
+            [
+              -3.9450843,
+              5.3285731
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188120952",
+      "properties": {
+        "@id": "way/188120952",
+        "alt_name": "IBM-T - Institut Britannique de Management et de Technologies",
+        "amenity": "school",
+        "building": "school",
+        "name": "IBM-T - Institut Britannique de Management et de Technologies"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9572016,
+              5.3333036
+            ],
+            [
+              -3.9574749,
+              5.33354
+            ],
+            [
+              -3.9577748,
+              5.3331964
+            ],
+            [
+              -3.9575015,
+              5.3329599
+            ],
+            [
+              -3.9572016,
+              5.3333036
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188120954",
+      "properties": {
+        "@id": "way/188120954",
+        "amenity": "school",
+        "name": "Lycée Américain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9571039,
+              5.3318375
+            ],
+            [
+              -3.9573473,
+              5.3310978
+            ],
+            [
+              -3.9570116,
+              5.3309883
+            ],
+            [
+              -3.9567682,
+              5.331728
+            ],
+            [
+              -3.9571039,
+              5.3318375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188121730",
+      "properties": {
+        "@id": "way/188121730",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Primaire Publique de M'Pouto Village"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9545143,
+              5.3253411
+            ],
+            [
+              -3.9535867,
+              5.3252428
+            ],
+            [
+              -3.9533843,
+              5.3267301
+            ],
+            [
+              -3.9542884,
+              5.3268284
+            ],
+            [
+              -3.9545143,
+              5.3253411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236432539",
+      "properties": {
+        "@id": "way/236432539",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Complexe Socio-éducatif",
+        "operator": "Complexe Socio-éducatif",
+        "phone": "20367122"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0169679,
+              5.3492463
+            ],
+            [
+              -4.0169697,
+              5.349047
+            ],
+            [
+              -4.0164778,
+              5.3490433
+            ],
+            [
+              -4.0164778,
+              5.3492407
+            ],
+            [
+              -4.0169679,
+              5.3492463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237748090",
+      "properties": {
+        "@id": "way/237748090",
+        "addr:street": "Avenue du savoir",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Primaire Public Rosiers 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9682048,
+              5.3950531
+            ],
+            [
+              -3.9680709,
+              5.3949051
+            ],
+            [
+              -3.9676463,
+              5.3949373
+            ],
+            [
+              -3.9676764,
+              5.3950584
+            ],
+            [
+              -3.9677441,
+              5.3951689
+            ],
+            [
+              -3.9678863,
+              5.3953436
+            ],
+            [
+              -3.9682048,
+              5.3950531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237748091",
+      "properties": {
+        "@id": "way/237748091",
+        "addr:street": "Avenue du savoir",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Maternelle Rosiers 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9682048,
+              5.3950531
+            ],
+            [
+              -3.9682473,
+              5.395102
+            ],
+            [
+              -3.9683921,
+              5.3949673
+            ],
+            [
+              -3.96831,
+              5.3948695
+            ],
+            [
+              -3.9682206,
+              5.3947631
+            ],
+            [
+              -3.9681104,
+              5.3946814
+            ],
+            [
+              -3.9679826,
+              5.3946876
+            ],
+            [
+              -3.9678624,
+              5.3947702
+            ],
+            [
+              -3.9678194,
+              5.3948926
+            ],
+            [
+              -3.9676432,
+              5.3948927
+            ],
+            [
+              -3.9676463,
+              5.3949373
+            ],
+            [
+              -3.9680709,
+              5.3949051
+            ],
+            [
+              -3.9682048,
+              5.3950531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238713206",
+      "properties": {
+        "@id": "way/238713206",
+        "amenity": "school",
+        "building": "yes",
+        "name": "École primaire Jean-Porquet",
+        "operator": "Ministère de l'éducation nationale"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0209453,
+              5.363859
+            ],
+            [
+              -4.0210807,
+              5.3633848
+            ],
+            [
+              -4.0209686,
+              5.3633336
+            ],
+            [
+              -4.0205437,
+              5.3632499
+            ],
+            [
+              -4.0201934,
+              5.3633197
+            ],
+            [
+              -4.0202168,
+              5.3636033
+            ],
+            [
+              -4.0203756,
+              5.3636917
+            ],
+            [
+              -4.0205483,
+              5.3637939
+            ],
+            [
+              -4.0209453,
+              5.363859
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238867740",
+      "properties": {
+        "@id": "way/238867740",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Fred et Popée"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9760434,
+              5.3928109
+            ],
+            [
+              -3.9759844,
+              5.3925653
+            ],
+            [
+              -3.9756304,
+              5.3926614
+            ],
+            [
+              -3.9756947,
+              5.3929017
+            ],
+            [
+              -3.9760434,
+              5.3928109
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238867741",
+      "properties": {
+        "@id": "way/238867741",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Collège Sainte Camille"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9751154,
+              5.3930246
+            ],
+            [
+              -3.9750295,
+              5.3926721
+            ],
+            [
+              -3.9745521,
+              5.3928056
+            ],
+            [
+              -3.9746379,
+              5.3931421
+            ],
+            [
+              -3.9751154,
+              5.3930246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241253584",
+      "properties": {
+        "@id": "way/241253584",
+        "amenity": "school",
+        "name": "École Primaire Public Latrille"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9941177,
+              5.4006452
+            ],
+            [
+              -3.9941802,
+              5.4001631
+            ],
+            [
+              -3.9936443,
+              5.4000942
+            ],
+            [
+              -3.9936141,
+              5.4003285
+            ],
+            [
+              -3.9936098,
+              5.4003624
+            ],
+            [
+              -3.9935814,
+              5.4005767
+            ],
+            [
+              -3.9941177,
+              5.4006452
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255100500",
+      "properties": {
+        "@id": "way/255100500",
+        "addr:housename": "Externat St Paul",
+        "amenity": "school",
+        "name": "Externat St Paul"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0216196,
+              5.3245585
+            ],
+            [
+              -4.0216159,
+              5.3242532
+            ],
+            [
+              -4.0207737,
+              5.3242319
+            ],
+            [
+              -4.0207755,
+              5.32513
+            ],
+            [
+              -4.0216126,
+              5.3251263
+            ],
+            [
+              -4.0216196,
+              5.3245585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270881656",
+      "properties": {
+        "@id": "way/270881656",
+        "amenity": "school",
+        "name": "Epp cité pailler"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0130597,
+              5.3741304
+            ],
+            [
+              -4.0134244,
+              5.3737993
+            ],
+            [
+              -4.0130056,
+              5.3733483
+            ],
+            [
+              -4.0126408,
+              5.3736954
+            ],
+            [
+              -4.0130597,
+              5.3741304
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285933761",
+      "properties": {
+        "@id": "way/285933761",
+        "amenity": "school",
+        "name": "École Primaire Public Dokui Bad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0031659,
+              5.3956504
+            ],
+            [
+              -4.0034151,
+              5.3951644
+            ],
+            [
+              -4.0027942,
+              5.3948488
+            ],
+            [
+              -4.002545,
+              5.3953347
+            ],
+            [
+              -4.0031659,
+              5.3956504
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286238092",
+      "properties": {
+        "@id": "way/286238092",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Les Pichtounes des 2 Plateaux",
+        "operator": "Groupe Scolaire Les Pichtounes des 2 Plateaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9973167,
+              5.3633356
+            ],
+            [
+              -3.9973131,
+              5.3629102
+            ],
+            [
+              -3.9967731,
+              5.3629146
+            ],
+            [
+              -3.9967741,
+              5.3630309
+            ],
+            [
+              -3.9967767,
+              5.3633401
+            ],
+            [
+              -3.9973167,
+              5.3633356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286239463",
+      "properties": {
+        "@id": "way/286239463",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Primaire Publique 2 Plateaux Nord"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9998033,
+              5.3671453
+            ],
+            [
+              -3.9998053,
+              5.3666354
+            ],
+            [
+              -3.9987512,
+              5.3666312
+            ],
+            [
+              -3.9987491,
+              5.3671787
+            ],
+            [
+              -3.9988529,
+              5.3671791
+            ],
+            [
+              -3.9988522,
+              5.3673603
+            ],
+            [
+              -3.9995778,
+              5.3673632
+            ],
+            [
+              -3.9995787,
+              5.3671444
+            ],
+            [
+              -3.9998033,
+              5.3671453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286247414",
+      "properties": {
+        "@id": "way/286247414",
+        "amenity": "school",
+        "name": "Groupe Scolaire Notre Dame des 2 Plateaux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9886687,
+              5.4047246
+            ],
+            [
+              -3.988717,
+              5.4043909
+            ],
+            [
+              -3.9879177,
+              5.4042921
+            ],
+            [
+              -3.9878694,
+              5.4046232
+            ],
+            [
+              -3.9886687,
+              5.4047246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286248006",
+      "properties": {
+        "@id": "way/286248006",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "College Le Mahou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9976224,
+              5.398818
+            ],
+            [
+              -3.9977352,
+              5.3979742
+            ],
+            [
+              -3.9967882,
+              5.3978488
+            ],
+            [
+              -3.9966755,
+              5.3986926
+            ],
+            [
+              -3.9976224,
+              5.398818
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286249017",
+      "properties": {
+        "@id": "way/286249017",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Groupe Scolaire Arc en Ciel du Dokui"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0053713,
+              5.3903696
+            ],
+            [
+              -4.0053307,
+              5.3900984
+            ],
+            [
+              -4.0048768,
+              5.3901768
+            ],
+            [
+              -4.0044107,
+              5.3902553
+            ],
+            [
+              -4.0044367,
+              5.3903448
+            ],
+            [
+              -4.0043128,
+              5.3903785
+            ],
+            [
+              -4.0043358,
+              5.3905252
+            ],
+            [
+              -4.0048241,
+              5.3904839
+            ],
+            [
+              -4.0048173,
+              5.3904417
+            ],
+            [
+              -4.0053355,
+              5.3903737
+            ],
+            [
+              -4.0053713,
+              5.3903696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286256875",
+      "properties": {
+        "@id": "way/286256875",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Primaire Public Azur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0059616,
+              5.3985991
+            ],
+            [
+              -4.0059747,
+              5.3978541
+            ],
+            [
+              -4.0053605,
+              5.3978434
+            ],
+            [
+              -4.0053474,
+              5.3985884
+            ],
+            [
+              -4.0059616,
+              5.3985991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286258184",
+      "properties": {
+        "@id": "way/286258184",
+        "amenity": "school",
+        "name": "École Primaire Public Abobote Annexe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0035247,
+              5.4048472
+            ],
+            [
+              -4.0035272,
+              5.4043959
+            ],
+            [
+              -4.0026598,
+              5.4043913
+            ],
+            [
+              -4.0026574,
+              5.4048426
+            ],
+            [
+              -4.0035247,
+              5.4048472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295271716",
+      "properties": {
+        "@id": "way/295271716",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Groupe Scolaire Jules Ferry"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9800691,
+              5.364385
+            ],
+            [
+              -3.9799663,
+              5.3637213
+            ],
+            [
+              -3.9792197,
+              5.3638339
+            ],
+            [
+              -3.9793181,
+              5.3644776
+            ],
+            [
+              -3.9800691,
+              5.364385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307285382",
+      "properties": {
+        "@id": "way/307285382",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Principale M'BADON",
+        "addr:suburb": "M'pouto",
+        "amenity": "school",
+        "barrier": "wall",
+        "is_in": "M'pouto; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "Groupe Scolaire Primaire M'BADON",
+        "operator": "Ministère de l'Education National et de l'Enseignement technique"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9335068,
+              5.3297523
+            ],
+            [
+              -3.932392,
+              5.328762
+            ],
+            [
+              -3.9320138,
+              5.3295378
+            ],
+            [
+              -3.9327113,
+              5.3300279
+            ],
+            [
+              -3.9329673,
+              5.3302079
+            ],
+            [
+              -3.932994,
+              5.3302266
+            ],
+            [
+              -3.9330876,
+              5.3302923
+            ],
+            [
+              -3.9332344,
+              5.3301032
+            ],
+            [
+              -3.9333957,
+              5.3298954
+            ],
+            [
+              -3.9335068,
+              5.3297523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307286494",
+      "properties": {
+        "@id": "way/307286494",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Principale M'BADON",
+        "addr:suburb": "M'pouto",
+        "amenity": "school",
+        "is_in": "M'pouto; Cocody; Abidjan; Côte d'Ivoire"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9336536,
+              5.3301107
+            ],
+            [
+              -3.9337703,
+              5.3299718
+            ],
+            [
+              -3.9335068,
+              5.3297523
+            ],
+            [
+              -3.9333957,
+              5.3298954
+            ],
+            [
+              -3.9336536,
+              5.3301107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307287129",
+      "properties": {
+        "@id": "way/307287129",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "M'pouto",
+        "amenity": "school",
+        "is_in": "M'pouto; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "Groupe Scolaire Le Navire"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9376356,
+              5.3289489
+            ],
+            [
+              -3.937779,
+              5.3288107
+            ],
+            [
+              -3.9376545,
+              5.3286826
+            ],
+            [
+              -3.9375111,
+              5.3288208
+            ],
+            [
+              -3.9376356,
+              5.3289489
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307287750",
+      "properties": {
+        "@id": "way/307287750",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Principale M'BADON",
+        "addr:suburb": "M'pouto",
+        "amenity": "school",
+        "barrier": "fence",
+        "is_in": "M'pouto; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "Groupe Scolaire ELOHIM"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9329495,
+              5.3290605
+            ],
+            [
+              -3.9330798,
+              5.328916
+            ],
+            [
+              -3.933123,
+              5.3288682
+            ],
+            [
+              -3.9329957,
+              5.3287544
+            ],
+            [
+              -3.9328451,
+              5.3289214
+            ],
+            [
+              -3.9328223,
+              5.3289467
+            ],
+            [
+              -3.9329495,
+              5.3290605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307893581",
+      "properties": {
+        "@id": "way/307893581",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0295576,
+              5.3539372
+            ],
+            [
+              -4.0295295,
+              5.3538588
+            ],
+            [
+              -4.0292746,
+              5.3539493
+            ],
+            [
+              -4.0293026,
+              5.3540276
+            ],
+            [
+              -4.0295576,
+              5.3539372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307893585",
+      "properties": {
+        "@id": "way/307893585",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0307505,
+              5.354025
+            ],
+            [
+              -4.0303731,
+              5.3541705
+            ],
+            [
+              -4.0304133,
+              5.3542561
+            ],
+            [
+              -4.030785,
+              5.3541138
+            ],
+            [
+              -4.0307505,
+              5.354025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307893587",
+      "properties": {
+        "@id": "way/307893587",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0306683,
+              5.354016
+            ],
+            [
+              -4.0306432,
+              5.3539459
+            ],
+            [
+              -4.0303944,
+              5.3540341
+            ],
+            [
+              -4.0304195,
+              5.3541042
+            ],
+            [
+              -4.0306683,
+              5.354016
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307893588",
+      "properties": {
+        "@id": "way/307893588",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0304127,
+              5.3541129
+            ],
+            [
+              -4.0303739,
+              5.3540072
+            ],
+            [
+              -4.0300909,
+              5.3541102
+            ],
+            [
+              -4.0301297,
+              5.3542159
+            ],
+            [
+              -4.0304127,
+              5.3541129
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307893595",
+      "properties": {
+        "@id": "way/307893595",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0301023,
+              5.3536736
+            ],
+            [
+              -4.0300151,
+              5.3536925
+            ],
+            [
+              -4.0300912,
+              5.3540409
+            ],
+            [
+              -4.0301784,
+              5.354022
+            ],
+            [
+              -4.0301023,
+              5.3536736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307893603",
+      "properties": {
+        "@id": "way/307893603",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0308539,
+              5.3543402
+            ],
+            [
+              -4.0308245,
+              5.354258
+            ],
+            [
+              -4.0305598,
+              5.3543519
+            ],
+            [
+              -4.0305892,
+              5.3544341
+            ],
+            [
+              -4.0308539,
+              5.3543402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307893605",
+      "properties": {
+        "@id": "way/307893605",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0304644,
+              5.3544886
+            ],
+            [
+              -4.0304326,
+              5.3544021
+            ],
+            [
+              -4.0301449,
+              5.3545068
+            ],
+            [
+              -4.0301767,
+              5.3545934
+            ],
+            [
+              -4.0304644,
+              5.3544886
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307893607",
+      "properties": {
+        "@id": "way/307893607",
+        "amenity": "school",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0306379,
+              5.3546462
+            ],
+            [
+              -4.0306017,
+              5.3545532
+            ],
+            [
+              -4.0303762,
+              5.3546401
+            ],
+            [
+              -4.0304123,
+              5.3547331
+            ],
+            [
+              -4.0306379,
+              5.3546462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321467686",
+      "properties": {
+        "@id": "way/321467686",
+        "amenity": "school",
+        "building": "yes",
+        "name": "GROUPE SCOLAIRE MAMADOU COULIBALY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0068963,
+              5.414537
+            ],
+            [
+              -4.0068963,
+              5.4143351
+            ],
+            [
+              -4.0067999,
+              5.4143311
+            ],
+            [
+              -4.0068069,
+              5.414412
+            ],
+            [
+              -4.0067396,
+              5.41441
+            ],
+            [
+              -4.0067386,
+              5.414377
+            ],
+            [
+              -4.0066372,
+              5.4143641
+            ],
+            [
+              -4.0066392,
+              5.41445
+            ],
+            [
+              -4.0068963,
+              5.414537
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323290714",
+      "properties": {
+        "@id": "way/323290714",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "barrier": "wall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9901502,
+              5.3585494
+            ],
+            [
+              -3.9900725,
+              5.3586647
+            ],
+            [
+              -3.99003,
+              5.3587523
+            ],
+            [
+              -3.9903657,
+              5.3589128
+            ],
+            [
+              -3.9904009,
+              5.3588165
+            ],
+            [
+              -3.9904463,
+              5.3587435
+            ],
+            [
+              -3.9901502,
+              5.3585494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323639545",
+      "properties": {
+        "@id": "way/323639545",
+        "amenity": "school",
+        "name": "École primaire EPP Angré 2 et 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9874517,
+              5.4019699
+            ],
+            [
+              -3.9870347,
+              5.4014855
+            ],
+            [
+              -3.9864733,
+              5.4014376
+            ],
+            [
+              -3.9863316,
+              5.4026458
+            ],
+            [
+              -3.9864974,
+              5.4027416
+            ],
+            [
+              -3.9874517,
+              5.4019699
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323639546",
+      "properties": {
+        "@id": "way/323639546",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9900837,
+              5.4011566
+            ],
+            [
+              -3.9902112,
+              5.4001925
+            ],
+            [
+              -3.9900856,
+              5.4000302
+            ],
+            [
+              -3.9891366,
+              5.400762
+            ],
+            [
+              -3.9894438,
+              5.4011859
+            ],
+            [
+              -3.9895515,
+              5.401101
+            ],
+            [
+              -3.9900837,
+              5.4011566
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323846321",
+      "properties": {
+        "@id": "way/323846321",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "barrier": "wall",
+        "is_in": "Deux Plateaux; Cocody; Abidjan; Côte d'Ivoire"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9970017,
+              5.3596294
+            ],
+            [
+              -3.9970455,
+              5.3597089
+            ],
+            [
+              -3.9968934,
+              5.3598293
+            ],
+            [
+              -3.996785,
+              5.3596851
+            ],
+            [
+              -3.99679,
+              5.3596817
+            ],
+            [
+              -3.9967187,
+              5.3595931
+            ],
+            [
+              -3.9966954,
+              5.3595801
+            ],
+            [
+              -3.996621,
+              5.3597089
+            ],
+            [
+              -3.9966119,
+              5.3597457
+            ],
+            [
+              -3.9965859,
+              5.3598502
+            ],
+            [
+              -3.9965842,
+              5.3602514
+            ],
+            [
+              -3.9972008,
+              5.3602601
+            ],
+            [
+              -3.9976458,
+              5.3599252
+            ],
+            [
+              -3.997408,
+              5.3596083
+            ],
+            [
+              -3.997314,
+              5.3594831
+            ],
+            [
+              -3.997245,
+              5.3593912
+            ],
+            [
+              -3.9971961,
+              5.3594297
+            ],
+            [
+              -3.9970712,
+              5.3595267
+            ],
+            [
+              -3.9970017,
+              5.3596294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323861042",
+      "properties": {
+        "@id": "way/323861042",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "attribute_source_date": "22072011",
+        "barrier": "wall",
+        "camp": "yes",
+        "leisure": "garden",
+        "name": "Collège Lemania",
+        "refugee": "yes",
+        "source": "IOM Cote d'Ivoire"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9844148,
+              5.3611368
+            ],
+            [
+              -3.9844113,
+              5.3595689
+            ],
+            [
+              -3.9840312,
+              5.3591869
+            ],
+            [
+              -3.983623,
+              5.3590892
+            ],
+            [
+              -3.9835091,
+              5.3590229
+            ],
+            [
+              -3.9831569,
+              5.358931
+            ],
+            [
+              -3.9827207,
+              5.359374
+            ],
+            [
+              -3.9825097,
+              5.3597074
+            ],
+            [
+              -3.9825649,
+              5.3599927
+            ],
+            [
+              -3.9825211,
+              5.3610444
+            ],
+            [
+              -3.9826403,
+              5.3611822
+            ],
+            [
+              -3.9844148,
+              5.3611368
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325097179",
+      "properties": {
+        "@id": "way/325097179",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "is_in": "Deux Plateaux; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "La Farandole Internationale",
+        "operator": "Groupe Farandole Internationale",
+        "source": "InnovAfrica.org",
+        "website": "http://www.farandole.ci/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9980224,
+              5.3633417
+            ],
+            [
+              -3.9980209,
+              5.3630278
+            ],
+            [
+              -3.9981902,
+              5.363027
+            ],
+            [
+              -3.9981897,
+              5.3629245
+            ],
+            [
+              -3.9981891,
+              5.3627907
+            ],
+            [
+              -3.9979709,
+              5.3627918
+            ],
+            [
+              -3.9976723,
+              5.3627932
+            ],
+            [
+              -3.9976749,
+              5.3633433
+            ],
+            [
+              -3.9980224,
+              5.3633417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327695143",
+      "properties": {
+        "@id": "way/327695143",
+        "amenity": "school",
+        "name": "École Catholique Saint François Xavier d’Anono"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.972411,
+              5.343801
+            ],
+            [
+              -3.9720003,
+              5.3435033
+            ],
+            [
+              -3.971978,
+              5.3435398
+            ],
+            [
+              -3.9717254,
+              5.3440427
+            ],
+            [
+              -3.9718116,
+              5.3440817
+            ],
+            [
+              -3.9718801,
+              5.3441323
+            ],
+            [
+              -3.9719504,
+              5.3442212
+            ],
+            [
+              -3.9723656,
+              5.3438361
+            ],
+            [
+              -3.972411,
+              5.343801
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327695144",
+      "properties": {
+        "@id": "way/327695144",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Primaire Publique d’Anono"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9730842,
+              5.3424856
+            ],
+            [
+              -3.9724619,
+              5.3421522
+            ],
+            [
+              -3.9724392,
+              5.3421898
+            ],
+            [
+              -3.9722686,
+              5.3421176
+            ],
+            [
+              -3.9722507,
+              5.342191
+            ],
+            [
+              -3.9722096,
+              5.3423869
+            ],
+            [
+              -3.9722085,
+              5.3423983
+            ],
+            [
+              -3.9721801,
+              5.3425312
+            ],
+            [
+              -3.9721802,
+              5.342541
+            ],
+            [
+              -3.9721635,
+              5.3426088
+            ],
+            [
+              -3.9721635,
+              5.3426187
+            ],
+            [
+              -3.9721579,
+              5.3426405
+            ],
+            [
+              -3.9721575,
+              5.3426474
+            ],
+            [
+              -3.9721502,
+              5.3426787
+            ],
+            [
+              -3.9721501,
+              5.3426808
+            ],
+            [
+              -3.9721402,
+              5.3427306
+            ],
+            [
+              -3.9720971,
+              5.3427221
+            ],
+            [
+              -3.9720571,
+              5.3429504
+            ],
+            [
+              -3.9720051,
+              5.3430339
+            ],
+            [
+              -3.9719759,
+              5.3431022
+            ],
+            [
+              -3.9719738,
+              5.3431702
+            ],
+            [
+              -3.9720037,
+              5.3432404
+            ],
+            [
+              -3.9721584,
+              5.343349
+            ],
+            [
+              -3.9721373,
+              5.3433773
+            ],
+            [
+              -3.9725542,
+              5.3436867
+            ],
+            [
+              -3.9725845,
+              5.3437124
+            ],
+            [
+              -3.9726418,
+              5.3436453
+            ],
+            [
+              -3.9727249,
+              5.343709
+            ],
+            [
+              -3.9728643,
+              5.3437896
+            ],
+            [
+              -3.9733007,
+              5.3434992
+            ],
+            [
+              -3.9734102,
+              5.3433398
+            ],
+            [
+              -3.9734523,
+              5.3432673
+            ],
+            [
+              -3.9732444,
+              5.343115
+            ],
+            [
+              -3.9732807,
+              5.3430639
+            ],
+            [
+              -3.9732362,
+              5.3430356
+            ],
+            [
+              -3.973032,
+              5.3428791
+            ],
+            [
+              -3.9729967,
+              5.3428513
+            ],
+            [
+              -3.9730842,
+              5.3424856
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327752568",
+      "properties": {
+        "@id": "way/327752568",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 3",
+        "amenity": "school",
+        "barrier": "wall",
+        "is_in": "Riviera 3; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "École Primaire l'Ardoise"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9566305,
+              5.3508253
+            ],
+            [
+              -3.9557161,
+              5.3498459
+            ],
+            [
+              -3.9553792,
+              5.3501939
+            ],
+            [
+              -3.9553433,
+              5.3502781
+            ],
+            [
+              -3.9553285,
+              5.3503728
+            ],
+            [
+              -3.95532,
+              5.3507346
+            ],
+            [
+              -3.9558166,
+              5.3507515
+            ],
+            [
+              -3.9561716,
+              5.3511386
+            ],
+            [
+              -3.9566305,
+              5.3508253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327811600",
+      "properties": {
+        "@id": "way/327811600",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 3",
+        "amenity": "school",
+        "barrier": "wall",
+        "is_in": "Riviera 3; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "International Community School of Abidjan (ICSA)",
+        "phone": "+225-22.47.11.52",
+        "website": "http://www.icsabidjan.org/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9525584,
+              5.3471063
+            ],
+            [
+              -3.9504474,
+              5.3472345
+            ],
+            [
+              -3.9505083,
+              5.3480127
+            ],
+            [
+              -3.9505381,
+              5.3485544
+            ],
+            [
+              -3.9506988,
+              5.3497638
+            ],
+            [
+              -3.9508557,
+              5.3499198
+            ],
+            [
+              -3.9516724,
+              5.3491495
+            ],
+            [
+              -3.9517269,
+              5.349098
+            ],
+            [
+              -3.951664,
+              5.3490477
+            ],
+            [
+              -3.9526351,
+              5.3482048
+            ],
+            [
+              -3.9525584,
+              5.3471063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328402198",
+      "properties": {
+        "@id": "way/328402198",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue J16",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "barrier": "wall",
+        "is_in": "Deux Plateaux; Cocody; Abidjan; Côte d'Ivoire",
+        "leisure": "garden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.00074,
+              5.3565827
+            ],
+            [
+              -4.0008191,
+              5.3560924
+            ],
+            [
+              -4.0008086,
+              5.356061
+            ],
+            [
+              -4.0007788,
+              5.3560401
+            ],
+            [
+              -4.0007333,
+              5.3560209
+            ],
+            [
+              -4.0004403,
+              5.3559683
+            ],
+            [
+              -4.0004211,
+              5.3561117
+            ],
+            [
+              -4.0003917,
+              5.356332
+            ],
+            [
+              -4.0003662,
+              5.3565229
+            ],
+            [
+              -4.00074,
+              5.3565827
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328556240",
+      "properties": {
+        "@id": "way/328556240",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 3",
+        "amenity": "school",
+        "barrier": "wall",
+        "fax": "+225-22.40.55.75/+225-22.47.24.21",
+        "is_in": "Riviera 3; Cocody; Abidjan; Côte d'Ivoire",
+        "leisure": "garden",
+        "name": "École Jacques Prévert",
+        "operator": "Lycée Français Blaise Pascal d’Abidjan",
+        "phone": "+225-22.40.55.80/+225-22.40.00.60",
+        "website": "http://www.lycee-blaisepascal.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9498753,
+              5.3480595
+            ],
+            [
+              -3.9498439,
+              5.3476058
+            ],
+            [
+              -3.9498149,
+              5.3471875
+            ],
+            [
+              -3.9497665,
+              5.346488
+            ],
+            [
+              -3.9497468,
+              5.3462022
+            ],
+            [
+              -3.9497021,
+              5.3461685
+            ],
+            [
+              -3.9496861,
+              5.346133
+            ],
+            [
+              -3.9496682,
+              5.3460857
+            ],
+            [
+              -3.9496065,
+              5.3461005
+            ],
+            [
+              -3.9495466,
+              5.3461279
+            ],
+            [
+              -3.9495012,
+              5.3461652
+            ],
+            [
+              -3.949476,
+              5.34621
+            ],
+            [
+              -3.9494468,
+              5.3462101
+            ],
+            [
+              -3.9489391,
+              5.3462479
+            ],
+            [
+              -3.9477071,
+              5.3463278
+            ],
+            [
+              -3.9477119,
+              5.3464031
+            ],
+            [
+              -3.9478077,
+              5.3479104
+            ],
+            [
+              -3.9478268,
+              5.3482104
+            ],
+            [
+              -3.9498753,
+              5.3480595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328790629",
+      "properties": {
+        "@id": "way/328790629",
+        "amenity": "school",
+        "barrier": "wall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9266794,
+              5.3785372
+            ],
+            [
+              -3.9264109,
+              5.3775228
+            ],
+            [
+              -3.9258567,
+              5.3776682
+            ],
+            [
+              -3.9255104,
+              5.377759
+            ],
+            [
+              -3.9256495,
+              5.3782845
+            ],
+            [
+              -3.9253907,
+              5.3783523
+            ],
+            [
+              -3.9255202,
+              5.3788414
+            ],
+            [
+              -3.9266794,
+              5.3785372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328804885",
+      "properties": {
+        "@id": "way/328804885",
+        "amenity": "school",
+        "barrier": "wall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9363174,
+              5.3743717
+            ],
+            [
+              -3.9364067,
+              5.3742282
+            ],
+            [
+              -3.93637,
+              5.3742071
+            ],
+            [
+              -3.9364154,
+              5.3741284
+            ],
+            [
+              -3.9356159,
+              5.3736711
+            ],
+            [
+              -3.9355584,
+              5.3737707
+            ],
+            [
+              -3.9355281,
+              5.3737534
+            ],
+            [
+              -3.9354819,
+              5.3738412
+            ],
+            [
+              -3.9354627,
+              5.3739209
+            ],
+            [
+              -3.9354638,
+              5.3739677
+            ],
+            [
+              -3.9356409,
+              5.3745265
+            ],
+            [
+              -3.9362,
+              5.3743734
+            ],
+            [
+              -3.9362142,
+              5.3744249
+            ],
+            [
+              -3.936271,
+              5.3744068
+            ],
+            [
+              -3.9363174,
+              5.3743717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328885678",
+      "properties": {
+        "@id": "way/328885678",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Groupe Scolaire Kouadio Assahore"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9652738,
+              5.3808773
+            ],
+            [
+              -3.9648841,
+              5.3806359
+            ],
+            [
+              -3.9647599,
+              5.3808322
+            ],
+            [
+              -3.9648321,
+              5.3809065
+            ],
+            [
+              -3.9648113,
+              5.3809417
+            ],
+            [
+              -3.9648562,
+              5.3809674
+            ],
+            [
+              -3.9649113,
+              5.3811793
+            ],
+            [
+              -3.9648798,
+              5.381237
+            ],
+            [
+              -3.9648692,
+              5.3812555
+            ],
+            [
+              -3.9650015,
+              5.3813295
+            ],
+            [
+              -3.9651115,
+              5.3813924
+            ],
+            [
+              -3.9652547,
+              5.3811377
+            ],
+            [
+              -3.9655965,
+              5.380843
+            ],
+            [
+              -3.9655258,
+              5.3807955
+            ],
+            [
+              -3.9652738,
+              5.3808773
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328987957",
+      "properties": {
+        "@id": "way/328987957",
+        "amenity": "school",
+        "barrier": "wall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9675653,
+              5.3900181
+            ],
+            [
+              -3.967519,
+              5.3899687
+            ],
+            [
+              -3.9673341,
+              5.3900953
+            ],
+            [
+              -3.966951,
+              5.3904734
+            ],
+            [
+              -3.9668899,
+              5.3905622
+            ],
+            [
+              -3.9668371,
+              5.3905244
+            ],
+            [
+              -3.9667182,
+              5.3907808
+            ],
+            [
+              -3.9667925,
+              5.3908417
+            ],
+            [
+              -3.9669081,
+              5.3907364
+            ],
+            [
+              -3.9672367,
+              5.3909765
+            ],
+            [
+              -3.9672582,
+              5.3908006
+            ],
+            [
+              -3.967311,
+              5.3908006
+            ],
+            [
+              -3.9673721,
+              5.3905079
+            ],
+            [
+              -3.9674596,
+              5.3902515
+            ],
+            [
+              -3.9675653,
+              5.3900181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/329340057",
+      "properties": {
+        "@id": "way/329340057",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Les Flamboyants"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9910829,
+              5.405172
+            ],
+            [
+              -3.9908225,
+              5.405137
+            ],
+            [
+              -3.9907386,
+              5.4057567
+            ],
+            [
+              -3.9907614,
+              5.4057598
+            ],
+            [
+              -3.9909021,
+              5.4057787
+            ],
+            [
+              -3.9909989,
+              5.4057917
+            ],
+            [
+              -3.9910495,
+              5.4054184
+            ],
+            [
+              -3.9910829,
+              5.405172
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/329385045",
+      "properties": {
+        "@id": "way/329385045",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Primaire Public Sanon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0007759,
+              5.3841003
+            ],
+            [
+              -4.0008312,
+              5.3836581
+            ],
+            [
+              -4.0000295,
+              5.3835587
+            ],
+            [
+              -3.9999742,
+              5.3840009
+            ],
+            [
+              -4.0007759,
+              5.3841003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/329460704",
+      "properties": {
+        "@id": "way/329460704",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Primaire Public Aghien"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9964594,
+              5.3822961
+            ],
+            [
+              -3.9959625,
+              5.3828398
+            ],
+            [
+              -3.9962928,
+              5.3831482
+            ],
+            [
+              -3.9967614,
+              5.3826608
+            ],
+            [
+              -3.9968021,
+              5.3823619
+            ],
+            [
+              -3.9964594,
+              5.3822961
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/329668859",
+      "properties": {
+        "@id": "way/329668859",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue J81",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "barrier": "wall",
+        "email": "infos@clairefontaine.ci",
+        "name": "École Claire Fontaine",
+        "phone": "+225-22.41.16.24"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9919673,
+              5.3633289
+            ],
+            [
+              -3.9923895,
+              5.3633265
+            ],
+            [
+              -3.9923882,
+              5.3631026
+            ],
+            [
+              -3.991966,
+              5.363105
+            ],
+            [
+              -3.9919673,
+              5.3633289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/330381492",
+      "properties": {
+        "@id": "way/330381492",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue J79",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "barrier": "wall",
+        "email": "info@anis-educi.com",
+        "leisure": "garden",
+        "name": "All Nations International School",
+        "phone": "+225-22.41.52.58",
+        "website": "http://www.anis-educi.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9925551,
+              5.3602555
+            ],
+            [
+              -3.9923856,
+              5.3603544
+            ],
+            [
+              -3.9925572,
+              5.3606457
+            ],
+            [
+              -3.9927267,
+              5.3605468
+            ],
+            [
+              -3.9925551,
+              5.3602555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/334672954",
+      "properties": {
+        "@id": "way/334672954",
+        "amenity": "school",
+        "barrier": "wall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.999811,
+              5.3751916
+            ],
+            [
+              -3.9998086,
+              5.3749598
+            ],
+            [
+              -3.9996006,
+              5.374962
+            ],
+            [
+              -3.999603,
+              5.3751937
+            ],
+            [
+              -3.999811,
+              5.3751916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343464161",
+      "properties": {
+        "@id": "way/343464161",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Lycée Municipal d'Adjamé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0230516,
+              5.3775605
+            ],
+            [
+              -4.0230534,
+              5.3765107
+            ],
+            [
+              -4.0216691,
+              5.3768601
+            ],
+            [
+              -4.0216324,
+              5.3769611
+            ],
+            [
+              -4.0217217,
+              5.3773313
+            ],
+            [
+              -4.0221088,
+              5.3775605
+            ],
+            [
+              -4.0230516,
+              5.3775605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363812619",
+      "properties": {
+        "@id": "way/363812619",
+        "amenity": "school",
+        "name": "Groupe Scolaire Cocody Est"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.9994209,
+              5.3382062
+            ],
+            [
+              -3.9994944,
+              5.3375845
+            ],
+            [
+              -3.9985096,
+              5.3374725
+            ],
+            [
+              -3.9984738,
+              5.3377821
+            ],
+            [
+              -3.99846,
+              5.3379012
+            ],
+            [
+              -3.9984384,
+              5.3380873
+            ],
+            [
+              -3.9994209,
+              5.3382062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364671989",
+      "properties": {
+        "@id": "way/364671989",
+        "amenity": "school",
+        "building": "yes",
+        "name": "EPP PHILIPE YACE 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0278972,
+              5.3410679
+            ],
+            [
+              -4.027904,
+              5.3409326
+            ],
+            [
+              -4.0277229,
+              5.3409236
+            ],
+            [
+              -4.0277161,
+              5.3410589
+            ],
+            [
+              -4.0278972,
+              5.3410679
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452869503",
+      "properties": {
+        "@id": "node/452869503",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 3",
+        "amenity": "school",
+        "is_in": "Riviera 3; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "École Primaire l'Ardoise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.955714,
+          5.350224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452870179",
+      "properties": {
+        "@id": "node/452870179",
+        "amenity": "school",
+        "name": "Collège l'Ardoise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9551178,
+          5.3502566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452872059",
+      "properties": {
+        "@id": "node/452872059",
+        "amenity": "school",
+        "name": "Le Phénix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9676635,
+          5.354757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/775113366",
+      "properties": {
+        "@id": "node/775113366",
+        "addr:postcode": "25 BP 2257 Abidjan",
+        "addr:street": "E 94",
+        "amenity": "school",
+        "name": "Lycée Blaise Pascal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9518463,
+          5.3514473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/775786986",
+      "properties": {
+        "@id": "node/775786986",
+        "amenity": "school",
+        "name": "École maternelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.953767,
+          5.3512514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1386828691",
+      "properties": {
+        "@id": "node/1386828691",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "attribute_source_date": "22072011",
+        "camp": "yes",
+        "name": "Collège Lemania",
+        "refugee": "yes",
+        "source": "IOM Cote d'Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9838763,
+          5.3605506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1987355311",
+      "properties": {
+        "@id": "node/1987355311",
+        "amenity": "school",
+        "name": "Mimy's School International"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9490797,
+          5.3279404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1987808324",
+      "properties": {
+        "@id": "node/1987808324",
+        "amenity": "school",
+        "name": "Pavillon d es Grâces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9481633,
+          5.3256032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1987812602",
+      "properties": {
+        "@id": "node/1987812602",
+        "amenity": "school",
+        "name": "École Primaire Publique - Riviera CIAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9456679,
+          5.327895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2364399477",
+      "properties": {
+        "@id": "node/2364399477",
+        "addr:city": "Attécoubé",
+        "amenity": "school",
+        "name": "Groupe scolaire DJE LOUKOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0337874,
+          5.3483157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2382092672",
+      "properties": {
+        "@id": "node/2382092672",
+        "amenity": "school",
+        "name": "EPV la Sorbonne",
+        "operator": "Privé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0218637,
+          5.3673493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2407413044",
+      "properties": {
+        "@id": "node/2407413044",
+        "addr:city": "Attécoubé",
+        "amenity": "school",
+        "name": "EPP SEBROKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0344818,
+          5.3465412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2407413233",
+      "properties": {
+        "@id": "node/2407413233",
+        "addr:city": "Attécoubé",
+        "amenity": "school",
+        "contact:email": "ecolefaidherbe@gmail.com",
+        "name": "G.S Faidherbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0344723,
+          5.3452647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2407426907",
+      "properties": {
+        "@id": "node/2407426907",
+        "addr:city": "Attécoubé",
+        "amenity": "school",
+        "name": "G.S BIEGOUSSI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0324093,
+          5.3447507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2407426908",
+      "properties": {
+        "@id": "node/2407426908",
+        "addr:city": "Attécoubé",
+        "amenity": "school",
+        "name": "G.S GBEBOUTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.032381,
+          5.345318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2409344619",
+      "properties": {
+        "@id": "node/2409344619",
+        "amenity": "school",
+        "name": "Les tulupes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9851613,
+          5.4033319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2412963901",
+      "properties": {
+        "@id": "node/2412963901",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0203649,
+          5.3877074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2442981623",
+      "properties": {
+        "@id": "node/2442981623",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue de l'Entente",
+        "amenity": "school",
+        "name": "Nid de Cocody"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0041605,
+          5.342788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2452041054",
+      "properties": {
+        "@id": "node/2452041054",
+        "amenity": "school",
+        "name": "Groupe Scolaire KONATE",
+        "operator": "Groupe Scolaire KONATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0175236,
+          5.3633882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2468322139",
+      "properties": {
+        "@id": "node/2468322139",
+        "amenity": "school",
+        "name": "Groupe Scolaire Sainte Jeanne",
+        "operator": "Groupe Scolaire Sainte Jeanne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0068583,
+          5.4066035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2468322680",
+      "properties": {
+        "@id": "node/2468322680",
+        "amenity": "school",
+        "name": "École Adama Sanogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9993668,
+          5.4028918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489437354",
+      "properties": {
+        "@id": "node/2489437354",
+        "amenity": "school",
+        "name": "École Primaire Public Latrille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9938763,
+          5.4003752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2499680099",
+      "properties": {
+        "@id": "node/2499680099",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "is_in": "Deux Plateaux; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "La Farandole Internationale",
+        "operator": "Groupe Farandole Internationale",
+        "source": "InnovAfrica.org",
+        "website": "http://www.farandole.ci/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9978868,
+          5.3630447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2499814670",
+      "properties": {
+        "@id": "node/2499814670",
+        "addr:city": "Cocody",
+        "addr:street": "Boulevard de France",
+        "amenity": "school",
+        "name": "College Moderne de Cocody",
+        "phone": "+225 22440252 | +225 22442346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9953821,
+          5.335433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2575157263",
+      "properties": {
+        "@id": "node/2575157263",
+        "amenity": "school",
+        "name": "Angivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9635527,
+          5.3659897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2775176824",
+      "properties": {
+        "@id": "node/2775176824",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "name": "College Les Dauphins",
+        "operator": "Groupe Scolaire Les Dauphins",
+        "source": "gps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9905949,
+          5.3688387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2860165031",
+      "properties": {
+        "@id": "node/2860165031",
+        "amenity": "school",
+        "name": "Groupe Scolaire Victor Schoelcher",
+        "office": "educational_institution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9663192,
+          5.3587097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2860205101",
+      "properties": {
+        "@id": "node/2860205101",
+        "amenity": "school",
+        "name": "École Jean Piaget"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9819543,
+          5.3511062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2899117686",
+      "properties": {
+        "@id": "node/2899117686",
+        "amenity": "school",
+        "name": "Lycee Moderne d'Angré",
+        "office": "educational_institution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9786458,
+          5.4105313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2936645343",
+      "properties": {
+        "@id": "node/2936645343",
+        "amenity": "school",
+        "name": "Formation sanitaire urbaine de Williamsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0232457,
+          5.3668056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3017000117",
+      "properties": {
+        "@id": "node/3017000117",
+        "amenity": "school",
+        "name": "École islamique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0189261,
+          5.3504361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3017000119",
+      "properties": {
+        "@id": "node/3017000119",
+        "addr:city": "Adjamé",
+        "addr:street": "Rue C22",
+        "amenity": "school",
+        "name": "École primaire Cité-de-l'enfance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.018981,
+          5.3491809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3017000122",
+      "properties": {
+        "@id": "node/3017000122",
+        "addr:city": "Adjamé",
+        "addr:street": "Rue C12",
+        "amenity": "school",
+        "name": "Groupe scolaire Satigui Sangaré",
+        "phone": "07412548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0248423,
+          5.3468582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3017000127",
+      "properties": {
+        "@id": "node/3017000127",
+        "addr:postcode": "09 BP 3751 Abidjan",
+        "amenity": "school",
+        "name": "Institut technique secondaire professionnel",
+        "phone": "20382903 07983927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0195458,
+          5.3532813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3131207797",
+      "properties": {
+        "@id": "node/3131207797",
+        "amenity": "school",
+        "name": "EPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0304705,
+          5.3543644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3132905788",
+      "properties": {
+        "@id": "node/3132905788",
+        "amenity": "school",
+        "name": "Groupe Scolaire Hélène Hoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.963828,
+          5.3782682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3133071554",
+      "properties": {
+        "@id": "node/3133071554",
+        "amenity": "school",
+        "name": "École Catholique Saint François Xavier d’Anono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9720183,
+          5.343893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3133118439",
+      "properties": {
+        "@id": "node/3133118439",
+        "amenity": "school",
+        "name": "École Primaire Publique d’Anono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9727319,
+          5.3431979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3142634230",
+      "properties": {
+        "@id": "node/3142634230",
+        "amenity": "school",
+        "name": "Groupe Scolaire Kouadio Assahore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9650405,
+          5.3810344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3143709992",
+      "properties": {
+        "@id": "node/3143709992",
+        "amenity": "school",
+        "name": "Centre de Bureautique, de Communication et de Gestion (CBCG) Cocody"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0113233,
+          5.3500659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3143709993",
+      "properties": {
+        "@id": "node/3143709993",
+        "amenity": "school",
+        "name": "CIDFOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0106804,
+          5.3504736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3145395506",
+      "properties": {
+        "@id": "node/3145395506",
+        "amenity": "school",
+        "name": "École Primaire Public Aghien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9963945,
+          5.3827235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3145395507",
+      "properties": {
+        "@id": "node/3145395507",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "name": "College Tanon Namako",
+        "operator": "Groupe Scolaire Tanon Namako"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9925831,
+          5.3764451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3145728759",
+      "properties": {
+        "@id": "node/3145728759",
+        "amenity": "school",
+        "name": "Collège Le Figuier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9667174,
+          5.3773384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153841632",
+      "properties": {
+        "@id": "node/3153841632",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:postcode": "01 BP 1203",
+        "addr:state": "Abidjan",
+        "addr:street": "Avenue Jean Mermoz",
+        "amenity": "school",
+        "name": "Lycée international Jean-Mermoz",
+        "operator": "Mission laïque française",
+        "phone": "+225 08 44 85 08",
+        "website": "http://www.lijmermoz.org/",
+        "wheelchair": "yes",
+        "wikipedia": "fr:Lycée international Jean-Mermoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9986061,
+          5.3403328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3170439282",
+      "properties": {
+        "@id": "node/3170439282",
+        "amenity": "school",
+        "name": "Centre internationnal de formation routiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991119,
+          5.3947159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3170439284",
+      "properties": {
+        "@id": "node/3170439284",
+        "amenity": "school",
+        "name": "Sainte Famille de l'enfant Jesus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9894641,
+          5.3944809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3170460529",
+      "properties": {
+        "@id": "node/3170460529",
+        "amenity": "school",
+        "name": "Groupe EIT NTIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9844709,
+          5.3909031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3170471414",
+      "properties": {
+        "@id": "node/3170471414",
+        "amenity": "school",
+        "name": "Groupe Scolaire Internationnal les Cygnes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9869667,
+          5.3927847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250857476",
+      "properties": {
+        "@id": "node/3250857476",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 3",
+        "amenity": "school",
+        "fax": "+225-22.40.55.75/+225-22.47.24.21",
+        "is_in": "Riviera 3; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "École Jacques Prévert",
+        "operator": "Lycée Français Blaise Pascal d’Abidjan",
+        "phone": "+225-22.40.55.80/+225-22.40.00.60",
+        "website": "http://www.lycee-blaisepascal.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.949343,
+          5.347273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3282261352",
+      "properties": {
+        "@id": "node/3282261352",
+        "amenity": "school",
+        "name": "Victorloba'd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.994632,
+          5.4111167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3282420290",
+      "properties": {
+        "@id": "node/3282420290",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0060243,
+          5.4025562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3302594276",
+      "properties": {
+        "@id": "node/3302594276",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "name": "Les Oliviers",
+        "operator": "Groupe Scolaire Les Oliviers",
+        "phone": "+225-22.41.03.46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.990203,
+          5.3586869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3306166744",
+      "properties": {
+        "@id": "node/3306166744",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "email": "pepiniere@aviso.ci",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "École Primaire La Pépinière des Deux-Plateaux",
+        "operator": "Ecole Primaire La Pépinière des Deux-Plateaux",
+        "website": "http://www.lapepinieredes2plateaux.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9971272,
+          5.3598694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3317718592",
+      "properties": {
+        "@id": "node/3317718592",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "École Primaire Publique 2 Plateaux Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9992312,
+          5.3670165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3327834376",
+      "properties": {
+        "@id": "node/3327834376",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Ambassade",
+        "amenity": "school",
+        "is_in": "Ambassade;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Lycée Sainte-Marie de Cocody"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9953703,
+          5.3335134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3346265660",
+      "properties": {
+        "@id": "node/3346265660",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 3",
+        "amenity": "school",
+        "is_in": "Riviera 3; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "International Community School of Abidjan (ICSA)",
+        "phone": "+225-22.47.11.52",
+        "website": "http://www.icsabidjan.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9514795,
+          5.3480193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3348759700",
+      "properties": {
+        "@id": "node/3348759700",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Principale M'BADON",
+        "addr:suburb": "M'pouto",
+        "amenity": "school",
+        "barrier": "fence",
+        "is_in": "M'pouto; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "Groupe Scolaire ELOHIM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9329762,
+          5.3289114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3348812294",
+      "properties": {
+        "@id": "node/3348812294",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "M'pouto",
+        "amenity": "school",
+        "is_in": "M'pouto; Cocody; Abidjan; Côte d'Ivoire",
+        "name": "Groupe Scolaire Le Navire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9376425,
+          5.3287992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3356281410",
+      "properties": {
+        "@id": "node/3356281410",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9359068,
+          5.3742021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3357058161",
+      "properties": {
+        "@id": "node/3357058161",
+        "addr:city": "Cocody",
+        "amenity": "school",
+        "name": "Collège Saint-Viateur d'Abidjan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9543388,
+          5.3830666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3359573898",
+      "properties": {
+        "@id": "node/3359573898",
+        "addr:street": "Avenue du savoir",
+        "amenity": "school",
+        "name": "École Primaire Public Rosiers 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9679345,
+          5.395088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3360638528",
+      "properties": {
+        "@id": "node/3360638528",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Groupe Scolaire Jules Ferry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.979631,
+          5.3640623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3362083735",
+      "properties": {
+        "@id": "node/3362083735",
+        "amenity": "school",
+        "name": "École Les Flamboyants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9909281,
+          5.4053375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3362115491",
+      "properties": {
+        "@id": "node/3362115491",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9898131,
+          5.400703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3362467554",
+      "properties": {
+        "@id": "node/3362467554",
+        "amenity": "school",
+        "name": "College Le Mahou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9972124,
+          5.3983261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3365885414",
+      "properties": {
+        "@id": "node/3365885414",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue J81",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "email": "infos@clairefontaine.ci",
+        "name": "École Claire Fontaine",
+        "phone": "+225-22.41.16.24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9922183,
+          5.3632148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3366210462",
+      "properties": {
+        "@id": "node/3366210462",
+        "amenity": "school",
+        "name": "École Primaire Public Azur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0056755,
+          5.3982149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3366210463",
+      "properties": {
+        "@id": "node/3366210463",
+        "amenity": "school",
+        "name": "École Primaire Public Dokui Bad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0028961,
+          5.3952614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3373445165",
+      "properties": {
+        "@id": "node/3373445165",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue J79",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "email": "info@anis-educi.com",
+        "name": "All Nations International School",
+        "phone": "+225-22.41.52.58",
+        "website": "http://www.anis-educi.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9925521,
+          5.3604592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3373670084",
+      "properties": {
+        "@id": "node/3373670084",
+        "amenity": "school",
+        "name": "École Primaire Public Sanon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0003717,
+          5.3838136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3395000993",
+      "properties": {
+        "@id": "node/3395000993",
+        "amenity": "school",
+        "name": "EPP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0124197,
+          5.414111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3395000994",
+      "properties": {
+        "@id": "node/3395000994",
+        "amenity": "school",
+        "name": "La Ribambelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0165561,
+          5.415521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3406198871",
+      "properties": {
+        "@id": "node/3406198871",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue J13",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "school",
+        "building": "yes",
+        "email": "info@ecolelefleuron.com",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "École Le Fleuron des Deux-Plateaux",
+        "website": "http://www.ecolelefleuron.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9949588,
+          5.3596315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3417338444",
+      "properties": {
+        "@id": "node/3417338444",
+        "amenity": "school",
+        "name": "École Blanche Neige",
+        "phone": "+225-22.41.01.58",
+        "website": "http://blancheneigeci.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9997165,
+          5.3750684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3417395658",
+      "properties": {
+        "@id": "node/3417395658",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0005659,
+          5.3563613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3508590307",
+      "properties": {
+        "@id": "node/3508590307",
+        "amenity": "school",
+        "name": "Lycée Municipal d'Adjamé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0225187,
+          5.3771365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3563743115",
+      "properties": {
+        "@id": "node/3563743115",
+        "amenity": "school",
+        "name": "Groupe CERCO",
+        "operator:type": "private",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9931362,
+          5.3760563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3566883323",
+      "properties": {
+        "@id": "node/3566883323",
+        "amenity": "school",
+        "name": "Ecole Primaire PANORAMA",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0114135,
+          5.3980109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3575284916",
+      "properties": {
+        "@id": "node/3575284916",
+        "amenity": "school",
+        "name": "College PANORAMA",
+        "operator:type": "private",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0101698,
+          5.3962798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3575293778",
+      "properties": {
+        "@id": "node/3575293778",
+        "amenity": "school",
+        "name": "Ecole TINASSO",
+        "operator:type": "private",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0119596,
+          5.3958768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3647576535",
+      "properties": {
+        "@id": "node/3647576535",
+        "amenity": "school",
+        "name": "IFEF - Institut de Formation et d'Education Féminine d'Adjamé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0264168,
+          5.3431297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3678174829",
+      "properties": {
+        "@id": "node/3678174829",
+        "amenity": "school",
+        "name": "Groupe Scolaire Cocody Est"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9992203,
+          5.3378808
+        ]
+      }
+    }
+  ]
+}
